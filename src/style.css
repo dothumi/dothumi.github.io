@@ -4,7 +4,7 @@
 }
 
 html {
-	background: url('1422075681682-0.jpg');
+	background: url('bg.jpg');
 	background-size: 100%;
 	font-family: 'haxr';
 }
@@ -20,9 +20,9 @@ html {
 .sidebar {
 	position: absolute;
 	left: 460;
-	background: url('img.jpg');
-	background-size: 400%;
-	background-position: -160 -130;
+	background: url('wd.jpg');
+	background-size: 700%;
+	background-position: -360 -130;
 	width: 142px; height: 324px;
 	border: 2px solid #000;
 }
@@ -48,8 +48,8 @@ html {
 .mainbox {
 	position: absolute; 
 	width: 450; height: 300;
-	background: white;
-	border: 2px solid #000;
+	background: black;
+	border: 2px solid #000000;
 
 }
 
@@ -58,8 +58,9 @@ html {
 	margin: auto;
 	left: 0; right: 0;
 	top: 60;
-	font-size: 16px;
+	font-size: 20px;
 	text-align: center;
+	color:white;
 }
 
 ul {
@@ -78,6 +79,8 @@ li {
 	padding-right:3px;
 	height:16px;
 	line-height:16px;
+	color:#FA8072;
+	
 }
 
 .links {
@@ -92,7 +95,7 @@ a {
 	font-size:16px;
 	height:12px;
 	line-height:12px;
-	color:#000000;
+	color:white;
 }
 
 a:hover {
